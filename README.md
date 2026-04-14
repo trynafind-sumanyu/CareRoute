@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareRoot 🏥
 
 > AI-powered health triage & hospital navigation website
@@ -13,3 +14,6 @@ CareRoot lets users describe their symptoms, share their location, and instantly
 ---
 
 ## File Structure
+=======
+# CareRoute
+>>>>>>> a67f1201ae5ef90e4eaed2d92f95e2d9cb48fd73
