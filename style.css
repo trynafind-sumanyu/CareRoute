@@ -78,7 +78,7 @@ section, nav, footer { position: relative; z-index: 1; }
   height: 64px; display: flex; align-items: center; justify-content: space-between;
 }
 .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.logo-icon { display: flex; align-items: center; justify-content: center; }
+.logo-icon { display: flex; align-items: center; justify-content: center; width: 32px; height: 32px; }
 .logo-text { font-family: 'Syne', sans-serif; font-size: 20px; font-weight: 700; color: var(--text); }
 .nav-links { display: flex; gap: 32px; }
 .nav-links a { color: var(--text2); font-size: 14px; text-decoration: none; transition: color 0.2s; }
